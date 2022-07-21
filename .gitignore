@@ -4,4 +4,4 @@ __pycache__/
 logs/
 files/
 generators/
-.db
+*.db
